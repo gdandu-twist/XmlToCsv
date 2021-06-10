@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import csv
 
+#testing git
 def average(arr1):
     return sum(arr1) / len(arr1)
 
